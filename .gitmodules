@@ -1,0 +1,3 @@
+[submodule "E2E-Student-Performance-AWS-Azure"]
+	path = E2E-Student-Performance-AWS-Azure
+	url = https://github.com/tasnimuldatascience/E2E-Student-Performance-AWS-Azure.git
