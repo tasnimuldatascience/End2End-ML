@@ -4,3 +4,6 @@
 [submodule "End2End-NetworkSecurity"]
 	path = End2End-NetworkSecurity
 	url = https://github.com/tasnimuldatascience/End2End-NetworkSecurity.git
+[submodule "End2End-WineQuality-ML"]
+	path = End2End-WineQuality-ML
+	url = https://github.com/tasnimuldatascience/End2End-WineQuality-ML.git
