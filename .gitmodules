@@ -1,3 +1,6 @@
 [submodule "E2E-Student-Performance-AWS-Azure"]
 	path = E2E-Student-Performance-AWS-Azure
 	url = https://github.com/tasnimuldatascience/E2E-Student-Performance-AWS-Azure.git
+[submodule "End2End-NetworkSecurity"]
+	path = End2End-NetworkSecurity
+	url = https://github.com/tasnimuldatascience/End2End-NetworkSecurity.git
